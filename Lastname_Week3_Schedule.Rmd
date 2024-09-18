@@ -1,0 +1,36 @@
+---
+title: "Markdown Schedule"
+subtitle: "Week 3 Activity"
+author: "Adam Saternos"
+date: "9/19/2024"
+output: html_notebook
+---
+
+# Schedule
+
+### PLSC 200N (European Politics)
+
+PLSC 200N is a course about the politics and history of Europe. next week we will start examining the history and culture that lead to Brexit.
+
+
+
+https://www.geoguessr.com/vgp/3286?gamemode=type
+
+![Map of Europe](https://ontheworldmap.com/europe/europe-map.jpg)
+
+### [Game Club]
+
+The game club meets every Friday, and hosts both video and board games. I have not played any of the video games but just played Warhammer for the first time, and frequently play Magic: The Gathering.
+
+https://www.wargamer.com/warhammer-40k/what-is-warhammer-40k
+
+![Warhamer Mech](https://cdnb.artstation.com/p/assets/images/images/008/853/039/large/dmitriy-mironov-01.jpg?1608820822)
+
+### [Cru]
+Cru is a nondenominational youth group that has meetings every Tuesday. They usually meet in the Smith Chapel and also host other events throughout the week that I have not attended yet.
+
+https://www.cru.org/
+
+![Cru Logo.](https://clipground.com/images/cru-logo-png-5.jpg)
+
+
