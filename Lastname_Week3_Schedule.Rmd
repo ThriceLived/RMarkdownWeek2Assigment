@@ -12,8 +12,6 @@ output: html_notebook
 
 PLSC 200N is a course about the politics and history of Europe. next week we will start examining the history and culture that lead to Brexit.
 
-
-
 https://www.geoguessr.com/vgp/3286?gamemode=type
 
 ![Map of Europe](https://ontheworldmap.com/europe/europe-map.jpg)
@@ -25,6 +23,7 @@ The game club meets every Friday, and hosts both video and board games. I have n
 https://www.wargamer.com/warhammer-40k/what-is-warhammer-40k
 
 ![Warhamer Mech](https://cdnb.artstation.com/p/assets/images/images/008/853/039/large/dmitriy-mironov-01.jpg?1608820822)
+
 
 ### [Cru]
 Cru is a nondenominational youth group that has meetings every Tuesday. They usually meet in the Smith Chapel and also host other events throughout the week that I have not attended yet.
